@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @WoodCharcoals
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m salw34
+- 👀 I’m interested in VBA (excel_2016), javascript (google sheets) and c#.
+- 🌱 I’m currently learning VAB and Javascript
 
 <!---
-WoodCharcoals/WoodCharcoals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Salw34
 --->
